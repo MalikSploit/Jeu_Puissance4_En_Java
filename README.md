@@ -2,7 +2,7 @@
 
 # How to compile 
 ```
-cd Puissance4
+cd Jeu_Puissance4_En_Java-main
 javac -d build src/*.java
 ```
 
@@ -13,8 +13,8 @@ java -classpath build Main
 
 # How to generate JavaDoc
 ```
-cd JavaDoc
-javadoc ../src/*.java
+cd src/JavaDoc
+javadoc ../*.java
 ```
 
 # How to open the JavaDoc
