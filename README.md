@@ -1,4 +1,4 @@
-# Jeu_Puissance4_En_Java
+# Jeu Puissance 4 En Java
 
 # How to compile 
 ```
