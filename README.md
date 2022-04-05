@@ -11,7 +11,7 @@ javac -d build src/*.java
 java -classpath build Main
 ```
 
-# How to generate JavaDoc
+# How to generate the JavaDoc
 ```
 cd src/JavaDoc
 javadoc ../*.java
@@ -21,4 +21,4 @@ javadoc ../*.java
 ```
 firefox index.html
 ```
-Or just open the file index.html in JavaDoc directory.
+Or just open the file index.html in the JavaDoc directory.
