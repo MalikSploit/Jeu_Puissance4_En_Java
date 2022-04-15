@@ -3,7 +3,7 @@ import java.util.Objects;
 
 /**
  *  Classe : Joueur
- *  @author : Malik Makkes et Khalfallah Anis
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : Contient les méthodes qu'on utilisera pour les joueurs
  */

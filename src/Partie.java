@@ -6,7 +6,7 @@ import java.io.File;
 
 /**
  *  Classe : Partie
- *  @author : Malik Makkes et Anis Khalfallah
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : On configure la fenêtre de la grille et le message du joueur qui doit jouer
  */

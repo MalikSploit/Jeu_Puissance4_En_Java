@@ -3,7 +3,7 @@ import java.util.Stack;
 
  /**
  *  Classe : Main
- *  @author : Malik Makkes et Anis Khalfallah
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : On exécute le jeu pour y jouer
  */

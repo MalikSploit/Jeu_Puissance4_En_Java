@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 
 /**
  *  Classe : Menu
- *  @author : Malik Makkes et Anis Khalfallah
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : On place tous les éléments nécessaires pour le menu du jeu
  */

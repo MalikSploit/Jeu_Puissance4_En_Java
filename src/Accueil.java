@@ -4,7 +4,7 @@ import java.awt.event.*;
 
 /**
  *  Classe : Main
- *  @author : Malik Makkes et Anis Khalfallah
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : On place tous les éléments nécessaires sur la fenêtre d'acceuil
  */

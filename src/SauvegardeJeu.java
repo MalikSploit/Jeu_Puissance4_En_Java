@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  *  Classe : SauvegardeJeu
- *  @author : Malik Makkes et Khalfallah Anis
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : Enregistre ou Charge une partie
  */

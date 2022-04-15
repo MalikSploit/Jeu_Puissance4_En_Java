@@ -3,7 +3,7 @@ import java.util.EnumMap;
 
 /**
  *  Classe : Grille
- *  @author : Malik Makkes et Anis Khalfallah
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : On initialise la grille et on a toutes les opérations liées à grille
  */

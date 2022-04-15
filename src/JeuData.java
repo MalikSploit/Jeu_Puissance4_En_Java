@@ -3,7 +3,7 @@ import java.util.Stack;
 
 /**
  *  Classe : JeuData
- *  @author : Malik Makkes et Khalfallah Anis
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : Enregistre les parties et les stockent sous forme de pile.
  */

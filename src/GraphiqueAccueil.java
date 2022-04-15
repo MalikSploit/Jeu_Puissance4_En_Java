@@ -3,7 +3,7 @@ import java.awt.*;
 
 /**
  *  Classe : GraphiqueAccueil
- *  @author : Malik Makkes et Anis Khalfallah
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : On configure la taille et le titre de la fenêtre d'accueil du Jeu
  */

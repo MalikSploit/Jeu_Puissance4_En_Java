@@ -2,7 +2,7 @@ import java.io.Serializable;
 
  /**
  *  Classe : Jeu
- *  @author : Malik Makkes et Khalfallah Anis
+ *  @author : Malik Makkes
  *  date 	: 04/05/2022
  *  Explication : Enregistre une partie
  */
