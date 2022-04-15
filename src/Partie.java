@@ -84,7 +84,7 @@ public class Partie extends JPanel
 
 	/**
 	 *  Classe : fenetreGrille
-	 *  @author : Malik Makkes et Anis Khalfallah
+	 *  @author : Malik Makkes
 	 *  date 	: 04/05/2022
 	 *  Explication : On configure l'affichage de la grille de jeu avec une image
 	 */
@@ -353,7 +353,7 @@ public class Partie extends JPanel
 
 	/**
 	 *  Classe : MessageJoueur
-	 *  @author : Malik Makkes et Anis Khalfallah
+	 *  @author : Malik Makkes
 	 *  date 	: 04/05/2022
 	 *  Explication : On configure l'affichage du message de qui joue
 	 */

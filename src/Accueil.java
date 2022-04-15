@@ -175,7 +175,7 @@ public class Accueil extends JPanel implements ItemListener
 
 	/**
 	 *  Classe : InfosJoueur
-	 *  @author : Malik Makkes et Anis Khalfallah
+	 *  @author : Malik Makkes
 	 *  date 	: 04/05/2022
 	 *  Explication : on configure les saisies de l'utilisateur, pour pseudo et boutton valider
 	 */
