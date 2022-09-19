@@ -21,4 +21,4 @@ javadoc ../*.java
 ```
 firefox index.html
 ```
-Or just open the file index.html in the JavaDoc directory.
+Or just open the file index.html in the JavaDoc directory
